@@ -1,7 +1,7 @@
 # cis-eQTLs
 Summary statistics from ancestry-specific _cis_-eQTL analyses conducted in childhood cancer survivors of European (EUR) and African (AFR) genetic ancestry from the St. Jude Lifetime Cohort Study (SJLIFE).
 
-The compressed file _cis_-eQTLS_in_survivors.zip contains 18 files with summary statistics for:
+The compressed file _cis_-eQTLS.updated.7z contains 18 files with summary statistics for:
   1. Main effect _cis_-eQTLs in EUR survivors (EUR.main_effects.txt)
   2. Survivor-specific (identified in survivors, but absent in GTEx) _cis_-eQTLs in EUR survivors (EUR.survivor_specific.txt)
   3. Survivor-altered (opposite directions of effect in survivors and GTEx) _cis_-eQTLs in EUR survivors (EUR.survivor_altered.txt)
